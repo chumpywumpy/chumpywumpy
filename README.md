@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @chumpywumpy
-- 👀 I’m interested in boys
+👋 wassup
+
 <!---
 i like pasting
 --->
